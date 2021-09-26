@@ -156,14 +156,8 @@ button {
 .icon-16 img {
   height: inherit;
 }
-
-
-
-.blog-logo {
-  display: block;
-}
 .blog-logo img {
-  max-height: 16rem;
+  max-height: 15.5rem;
 }
 .sidebar {
   text-align: center;

@@ -29,6 +29,7 @@
   },
   "scripts": {
     "build": "gulp",
-    "watch": "gulp watcher"
+    "watch": "gulp watcher",
+    "zip": "zip -r trivialsec.zip *.hbs partials assets"
   }
 }
